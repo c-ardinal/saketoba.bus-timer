@@ -1,6 +1,6 @@
 # saketoba.countdoen-timer
 電車やバスの時刻を確認することが出来るカウントダウンタイマー。  
-詳しくは[こちら]()の記事を参照してください。
+詳しくは[こちら](https://qiita.com/c-ardinal/items/4866ff95a9bd09aac23f)の記事を参照してください。
 
 # Environment
  - Target ... ESP-WROOM-02
